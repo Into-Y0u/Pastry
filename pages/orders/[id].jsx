@@ -29,7 +29,7 @@ const Orders = ({ main }) => {
                             <span className={styles.name} >Rocky Bhai</span>
                         </td>
                         <td>
-                            <span className={styles.address} >Kholar Gold Fields ,Bangalore</span>
+                            <span className={styles.address} >KGF,Bangalore</span>
                         </td>
                         <td>
                             <span className={styles.total} >₹{main}</span>

@@ -17,22 +17,22 @@ const Footer = () => {
           <h1 className={styles.title}>FIND OUR RESTAURENT</h1>
           <p className={styles.text}>
             1234 poka pok Street .
+            <br/> Kolkata ,  85022
+            <br/> (123) 234-879134
+          </p>
+          <p className={styles.text}>
+            1234 yoyo Street .
             <br/> NewYork ,  85022
             <br/> (123) 234-879134
           </p>
           <p className={styles.text}>
-            1234 poka pok Street .
-            <br/> NewYork ,  85022
+            1234 rapgod Street .
+            <br/> Mumbai ,  85022
             <br/> (123) 234-879134
           </p>
           <p className={styles.text}>
-            1234 poka pok Street .
-            <br/> NewYork ,  85022
-            <br/> (123) 234-879134
-          </p>
-          <p className={styles.text}>
-            1234 poka pok Street .
-            <br/> NewYork ,  85022
+            1234 Lost Stories Street .
+            <br/> Goa ,  85022
             <br/> (123) 234-879134
           </p>
         </div>

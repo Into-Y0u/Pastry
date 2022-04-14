@@ -7,7 +7,7 @@ const PizzaList = () => {
     <div className={styles.container}>
 
       <h1 className= {styles.title}>
-          THE BEST PIZZA IN TOWN
+          THE BEST Cakes IN TOWN
       </h1>
       <p className={styles.desc}>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quod quam et tempore inventore fugiat voluptas vero alias, numquam consequatur sit eveniet maiores aliquam expedita ipsa perferendis ex ullam eos. Id adipisci deserunt in velit nihil dignissimos ea, mollitia minima. 

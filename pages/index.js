@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Pizza Restaurent in Mumbai</title>
+        <title>Pastry Shop ; The Best </title>
         <meta name="description" content="Best Pizza SHop in Town" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
