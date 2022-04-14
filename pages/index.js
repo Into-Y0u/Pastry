@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Pastry Shop ; The Best </title>
-        <meta name="description" content="Best Pizza SHop in Town" />
+        <title>Pastry Shop The Best </title>
+        <meta name="description" content="Best Pastry SHop in Town" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Featured/>
